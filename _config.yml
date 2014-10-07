@@ -1,0 +1,12 @@
+# Site settings
+title: Susan Harkey
+email: susanharkey@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hey here is a site about Susan.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: susanharkey
+github_username:  susanharkey
+
+# Build settings
+markdown: kramdown
