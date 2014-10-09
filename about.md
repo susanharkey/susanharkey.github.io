@@ -4,8 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p class="about-text">About paragraph</p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<div id="featured-dancer"><img class=".featured-dancer .dancer-image" src="/images/sample-image/" /><p class="featured-dancer">Featured dancer photo on left text on right</p></div>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+Grid of dancer photos - when you click on one will use javascript to change featured dancer to dancer clicked on (like latinworks site)
+
+<ul class="company-members">
+	<li><img class="dancer-image" src="/images/sample-image/" /><h2>Amber Tarcha, Company Director and Aerialist</h2><p class="dancer-bio">Dancer bio</p></li>
+	<li><img class="dancer-image" src="/images/sample-image/" /><h2>Maya Theresa Kaough, Artistic Director and Aerialist</h2><p class="dancer-bio">Dancer bio</p></li>
+	<li><img class="dancer-image" src="/images/sample-image/" /><h2>Susan Harkey, Technical Director and Aerialist</h2><p class="dancer-bio">Dancer bio</p></li>
+	<li><img class="dancer-image" src="/images/sample-image/" /><h2>Tolly Moseley, Marketing Director and Aerialist</h2><p class="dancer-bio">Dancer bio</p></li>
+	<li><img class="dancer-image" src="/images/sample-image/" /><h2>Jason Brown, Aerialist</h2><p class="dancer-bio">Dancer bio</p></li>
+	<li><img class="dancer-image" src="/images/sample-image/" /><h2>Julia Hornsby, Aerialist</h2><p class="dancer-bio">Dancer bio</p></li>
+	<li><img class="dancer-image" src="/images/sample-image/" /><h2>Anika Jones, Aerialist</h2><p class="dancer-bio">Dancer bio</p></li>
+	<li><img class="dancer-image" src="/images/sample-image/" /><h2>Kari Lehman, Aerialist</h2><p class="dancer-bio">Dancer bio</p></li>
+</ul>
