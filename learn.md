@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Learn
-permalink: /learn/
+title: Teacher Training
+permalink: /teacher-training/
 ---
+
+Teacher training text	
