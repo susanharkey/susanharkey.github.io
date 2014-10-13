@@ -3,3 +3,6 @@ body {
 	width: 1040px;
 }
 
+li {
+	list-style: none;
+}
