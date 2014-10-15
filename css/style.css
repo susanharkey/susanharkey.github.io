@@ -11,6 +11,10 @@ li {
 	list-style: none;
 }
 
+.page-link {
+	display: block;
+}
+
 .header-img {
 	border-radius: 50%;
 	width: 75%;
@@ -23,9 +27,6 @@ li {
 }
 
 @media (min-width: 600px){
-	.header-img {
-		width: 50%;
-	}
 
 	.site-header{
 		max-width: 25%;
