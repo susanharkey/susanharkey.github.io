@@ -8,7 +8,9 @@ li {
 
 .header-img {
 	border-radius: 50%;
-	padding: 2.5em;
+	width: 75%;
+	display: block;
+	margin: 0 auto;
 }
 
 @media (min-width: 600px){
