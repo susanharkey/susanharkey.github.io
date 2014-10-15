@@ -13,12 +13,8 @@ li {
 	margin: 0 auto;
 }
 
-.page-content:after{
+.site-footer{
 	clear:both;
-	content: " ";
-	visibility: hidden;
-	display: block;
-	height: 0;
 }
 
 @media (min-width: 600px){
