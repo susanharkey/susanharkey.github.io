@@ -28,13 +28,13 @@ li {
 	}
 
 	.site-header{
-		max-width: 33.333333%;
+		max-width: 25%;
     	float: left;
 	}
 
 	.page-content {
 		padding: 30px 0;
-		width: 66.66666%;
+		width: 75%;
 		float: right;
 	}
 	    
