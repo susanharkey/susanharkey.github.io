@@ -11,6 +11,10 @@ li {
 	list-style: none;
 }
 
+p {
+	margin-bottom: 1.25em;
+}
+
 .page-link {
 	display: block;
 	padding: 5px 0;
@@ -30,15 +34,20 @@ li {
 @media (min-width: 600px){
 
 	.site-header{
-		max-width: 33.333%;
+		max-width: 25%;
     	float: left;
     	padding: 30px 0;
 	}
 
 	.page-content {
 		padding: 30px 0;
-		width: 66.666%;
+		width: 75%;
 		float: right;
+		border-left: 1px solid #eee;
+	}
+
+	.header-img {
+		width: 100%;
 	}
 	    
 }
