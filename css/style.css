@@ -3,7 +3,7 @@
 }
 
 body {
-	margin: 20px auto;
+	margin: 40px auto;
 	max-width: 1040px;
 }
 
@@ -13,6 +13,7 @@ li {
 
 .page-link {
 	display: block;
+	padding: 5px 0;
 }
 
 .header-img {
