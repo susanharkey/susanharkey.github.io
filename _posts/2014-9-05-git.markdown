@@ -4,6 +4,5 @@ title: Git
 date: 2014-9-05
 ---
 
-Last week we learned how to set up a git account, create a git repository, copy it to our local computer, and add, commit, and push files to the repository. It was all new to me, and I am trying to figure out how to implement git in my wordpress workflow.
+Last week we learned how to set up a git account, create a git repository, copy it to our local computer, and add, commit, and push files to the repository. It was all new to me, and I am trying to figure out how to implement git in my wordpress workflow. I found <a href="http://ameliabriscoe.com/configure-wordpress-git-repository/this tutorial" target="_blank">this tutorial by Amelia Briscoe</a> about using a git reqository on bitbucket, which she recommended over github because you can get free private repositories. I guess you don't want sensitive info from your wordpress install to be public.
 
-I also learned a couple of new html and css things. Although I've used inline-block before, I didn't really know the purpose of it (to give inline elements a width and height). It was awesome to get an html refresher since I've been working in Wordpress. I am happy to know of boilerplate. Part of the reason I enrolled in the course was to get to know a more efficient workflow. Another awesome tool I learned about was the Can I Use website, which lists all the browser settings for css. 

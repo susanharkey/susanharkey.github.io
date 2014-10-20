@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Jekyll"
+date:   2014-10-10 
+categories: development tools
+---
+We were introduced to a new-to-me platform called <em>Jekyll</em>, which is what I used to create this blog. It is awesome compared to plain ol' html sites because you only have to add the head, header, and footer in one template and it  will automatically display on each page. It is awesome compared to wordpress because it is so simple, but it is not a cms, so it wouldn't be a great option for clients. I am thinking my final project will be to create the Rapt site in Jekyll. 
+
+Jekyll comes with a lot of awesome shortcodes (that's what they are called in Wordpress, but maybe Jekyll has another name), like the one below which adds a code snippet area you can use to add chunks of code to your blog posts. This is the default code that was included with the Jekyll install; it's in ruby, which I don't know at all:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+We set up Jekyll to display on our github site (mine is susanharkey.github.io obvs). However, you can use this code jekyll serve --watch in terminal to display any folder using jekyll on your local server: localhost:4000. At least I think that is what Flip was explaining to me. 
