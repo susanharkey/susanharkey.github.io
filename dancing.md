@@ -6,4 +6,8 @@ permalink: /dancing/
 
 Some things about dancing.
 
-Gallery.
+<div class="flex-grid">
+  <div class="col">Gallery image?</div>
+  <div class="col">Gallery image?</div>
+  <div class="col">Gallery image?</div>
+</div>
