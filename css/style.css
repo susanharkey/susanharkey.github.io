@@ -4,27 +4,11 @@
 
 body {
 	margin: 40px auto;
-	max-width: 1040px;
+	max-width: 1280px;
 }
 
-li {
-	list-style: none;
-}
-
-p, div {
+p {
 	margin-bottom: 1.25em;
-}
-
-.page-link {
-	display: block;
-	padding: 5px 0;
-}
-
-.header-img {
-	border-radius: 50%;
-	width: 75%;
-	display: block;
-	margin: 0 auto;
 }
 
 .site-footer{
@@ -33,21 +17,5 @@ p, div {
 
 @media (min-width: 600px){
 
-	.site-header{
-		max-width: 25%;
-    	float: left;
-    	padding: 30px 0;
-	}
 
-	.page-content {
-		padding: 30px 0;
-		width: 75%;
-		float: right;
-		border-left: 1px solid #eee;
-	}
-
-	.header-img {
-		width: 100%;
-	}
-	    
 }
