@@ -112,6 +112,9 @@ h3 {
 /* # Site Header
 ---------------------------------------------------------------------------- */
 
+.site-header {
+    padding: 20px 0;
+}
 
 /* ## Navigation
 --------------------------------------- */
@@ -122,6 +125,10 @@ h3 {
 
 .site-footer{
 	clear:both;
+}
+
+.site-footer li {
+	list-style-type: none;
 }
 
 /* # Media Queries
