@@ -2,13 +2,11 @@
 
   <div class="wrapper">
 
-    <img class="header-img" src="http://susanharkey.github.io/images/susanharkey.jpg" />
-
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
 
-      <div class="trigger">
+      <div>
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
